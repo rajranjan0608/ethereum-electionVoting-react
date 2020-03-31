@@ -1,0 +1,22 @@
+{
+  "name": "agora",
+  "version": "1.0.0",
+  "description": "Agora Prototype with React.js and Ethereum's Solidity",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "cd frontend && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajranjan0608/agora-blockchain.git"
+  },
+  "author": "Raj Ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajranjan0608/agora-blockchain/issues"
+  },
+  "homepage": "https://github.com/rajranjan0608/agora-blockchain#readme"
+}
